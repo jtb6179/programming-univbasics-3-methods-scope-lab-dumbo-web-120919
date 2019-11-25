@@ -14,4 +14,5 @@ def any_phrase
   puts phrase
 end 
 
-def 
+def link 
+  
